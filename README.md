@@ -33,10 +33,10 @@ This project uses the power of reinforcement learning to train an AI model to pl
 
 1. **Train the Model**:
 
-    Navigate to the project directory and run your training script (assuming it's saved as `train_mario.py`):
+    Navigate to the project directory and run your training script (assuming it's saved as `mario.ipynb`):
 
     ```bash
-    python train_mario.py
+    python mario.ipynb
     ```
 
     The trained model and checkpoints will be saved in the designated directories.
@@ -46,7 +46,7 @@ This project uses the power of reinforcement learning to train an AI model to pl
     After training, you can watch the AI play the game by running the corresponding part of the script. If this is in a separate script, run it like:
 
     ```bash
-    python play_mario.py
+    python mario.ipynb
     ```
 
     Enjoy the AI's gameplay as it navigates through the Super Mario levels!
